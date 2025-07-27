@@ -25,9 +25,23 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amaarkhan&show_icons=true&theme=radical" alt="Amaar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amaar-khan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaar-khan&layout=compact&theme=radical" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaar-khan&theme=radical" alt="GitHub Streak" />
 </p>
+
+<!-- Optional Trophy Section -->
+<!--
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amaar-khan&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+-->
+
+
 
 ---
 
