@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Amaar Khan
 
-<!--
-**amaarkhan/amaarkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final year Computer Science student  
+🧱 Currently exploring **AI**, **Machine Learning**, and **Web Development**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Reach Me
+- 📧 Email: amaarkhan25@gmail.com  
+- 💼 LinkedIn: [Amaar Khan](https://www.linkedin.com/in/amaar-khan-749506297/)
+
+---
+
+## 🚀 Technologies I'm Working With
+- 🧠 AI/ML: Python, LangChain, CrewAI  
+- 🌐 Web Dev: HTML, CSS, JavaScript, Flask  
+- 🎮 Game Dev: C++ with SFML
+
+---
+
+## 📊 GitHub Stats
+![Amaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaar-khan&show_icons=true&theme=radical)
+
+---
+
+## 🧠 Fun Fact
+> “I love building smart things that actually work. Let the code speak!”
+
